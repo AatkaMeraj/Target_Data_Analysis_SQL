@@ -59,6 +59,7 @@ The longest average delivery time is 28 days, which is too high.
 Recommendation: Reduce delivery times to enhance customer satisfaction and retention.
 
 📈 Expected Outcomes
+
 ✔ Improved sales through better seasonal promotions & market expansion
 ✔ Enhanced logistics efficiency for faster and more predictable deliveries
 ✔ Optimized freight costs through better routing & logistics strategies
